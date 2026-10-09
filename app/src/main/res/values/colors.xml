@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="laranja">#FF8A1F</color>
+    <color name="laranja_claro">#FFB877</color>
+    <color name="laranja_escuro">#5C2E00</color>
+    <color name="sobre_laranja">#1F1200</color>
+    <color name="fundo">#121212</color>
+    <color name="superficie">#1E1E1E</color>
+    <color name="texto">#FFFFFF</color>
+    <color name="texto_suave">#E1E1E1</color>
+    <color name="fundo_etiqueta">#CC1E1E1E</color>
+</resources>

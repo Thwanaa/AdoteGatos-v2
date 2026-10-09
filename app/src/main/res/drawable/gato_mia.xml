@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- fundo -->
+    <path android:fillColor="#C96A12" android:pathData="M0,0h200v200h-200z"/>
+    <!-- orelhas -->
+    <path android:fillColor="#F2EFEA" android:pathData="M48,95L55,30L100,65Z"/>
+    <path android:fillColor="#F2EFEA" android:pathData="M152,95L145,30L100,65Z"/>
+    <path android:fillColor="#F1B8C2" android:pathData="M60,75L62,48L84,66Z"/>
+    <path android:fillColor="#F1B8C2" android:pathData="M140,75L138,48L116,66Z"/>
+    <!-- cabeça -->
+    <path android:fillColor="#F2EFEA" android:pathData="M38,110a62,62 0 1,0 124,0a62,62 0 1,0 -124,0"/>
+    <!-- olhos -->
+    <path android:fillColor="#5B9BD5" android:pathData="M67,102a9,9 0 1,0 18,0a9,9 0 1,0 -18,0"/>
+    <path android:fillColor="#5B9BD5" android:pathData="M115,102a9,9 0 1,0 18,0a9,9 0 1,0 -18,0"/>
+    <path android:fillColor="#1A1A1A" android:pathData="M73,102a3,7 0 1,0 6,0a3,7 0 1,0 -6,0"/>
+    <path android:fillColor="#1A1A1A" android:pathData="M121,102a3,7 0 1,0 6,0a3,7 0 1,0 -6,0"/>
+    <!-- focinho e bigodes -->
+    <path android:fillColor="#E58FA0" android:pathData="M93,122L107,122L100,131Z"/>
+    <path
+        android:strokeColor="#7A746C"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M100,131Q100,140 90,142M100,131Q100,140 110,142M60,124L28,118M60,132L28,136M140,124L172,118M140,132L172,136"/>
+</vector>

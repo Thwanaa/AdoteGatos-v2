@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cartao_espaco_horizontal">16dp</dimen>
+    <dimen name="cartao_espaco_vertical">16dp</dimen>
+    <dimen name="cartao_margem">16dp</dimen>
+    <dimen name="cartao_intervalo">8dp</dimen>
+    <dimen name="cabecalho_altura">350dp</dimen>
+</resources>

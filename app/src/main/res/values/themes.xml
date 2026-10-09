@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema escuro com destaque em laranja -->
+    <style name="Base.Theme.AdoteGatos" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="fontFamily">@font/syne</item>
+
+        <item name="android:colorBackground">@color/fundo</item>
+        <item name="colorOnBackground">@color/texto</item>
+        <item name="colorSurface">@color/superficie</item>
+        <item name="colorOnSurface">@color/texto_suave</item>
+
+        <item name="colorPrimary">@color/laranja</item>
+        <item name="colorOnPrimary">@color/sobre_laranja</item>
+        <!-- botões flutuantes usam o par "container" -->
+        <item name="colorPrimaryContainer">@color/laranja</item>
+        <item name="colorOnPrimaryContainer">@color/sobre_laranja</item>
+        <item name="colorSecondary">@color/laranja_claro</item>
+        <item name="colorOnSecondary">@color/sobre_laranja</item>
+    </style>
+
+    <style name="Theme.AdoteGatos" parent="Base.Theme.AdoteGatos" />
+</resources>

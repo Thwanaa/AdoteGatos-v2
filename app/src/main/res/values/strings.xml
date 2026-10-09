@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Adote um Gato</string>
+    <string name="home_subtitulo">Gatos esperando por um lar</string>
+
+    <!-- Lista -->
+    <string name="foto_do_gato">Foto de %1$s</string>
+    <string name="filhote">Filhote</string>
+    <string name="adulto">Adulto</string>
+
+    <!-- Detalhe -->
+    <string name="voltar">Voltar</string>
+    <string name="titulo_sobre">Sobre</string>
+    <string name="processo_adocao">Processo de adoção</string>
+    <string name="etapa">Etapa %1$d / %2$d</string>
+    <string name="porcentagem">%1$d%%</string>
+    <string name="etapa_anterior_button">Voltar para a etapa anterior</string>
+    <string name="proxima_etapa_button">Avançar para a próxima etapa</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="sexo">Sexo</string>
+    <string name="porte">Porte</string>
+    <string name="resgatado_em">Resgatado em</string>
+    <string name="temperamento">Temperamento</string>
+    <string name="nao_informado">Não informado</string>
+    <string name="castrado">Castrado</string>
+    <string name="gato_nao_encontrado">Gato não encontrado</string>
+
+    <!-- Posição 0 = nada iniciado; posições 1 a 4 = etapas do processo -->
+    <string-array name="etapas_adocao">
+        <item>Processo ainda não iniciado</item>
+        <item>Interesse registrado</item>
+        <item>Entrevista com a ONG</item>
+        <item>Visita ao novo lar</item>
+        <item>Adoção concluída</item>
+    </string-array>
+
+    <plurals name="idade_meses">
+        <item quantity="one">%1$d mês</item>
+        <item quantity="other">%1$d meses</item>
+    </plurals>
+    <plurals name="idade_anos">
+        <item quantity="one">%1$d ano</item>
+        <item quantity="other">%1$d anos</item>
+    </plurals>
+</resources>
